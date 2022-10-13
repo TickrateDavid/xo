@@ -1,5 +1,3 @@
-from test import draw_field, check_win, field
-
 filed = list(range(1,10))
 
 def game_field(field):
